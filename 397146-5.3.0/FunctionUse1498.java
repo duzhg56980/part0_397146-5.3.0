@@ -1,0 +1,6 @@
+import cn.hutool.core.date.format.FastDatePrinter.UnpaddedMonthField;
+public class FunctionUse1498 {
+public void funcUse() {
+UnpaddedMonthField unpaddedmonthfield = new UnpaddedMonthField();
+}
+}
